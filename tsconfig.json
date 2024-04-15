@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "target": "ES2022",
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "strict": true,
+      "strictPropertyInitialization": false,
+      "skipLibCheck": true,
+      "outDir": "./dist"
+    }
+}
